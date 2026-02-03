@@ -44,7 +44,7 @@ Aspiring **full‑stack / backend developer** who enjoys building practical apps
 ---
 
 ## Open Source
-Contributing to **stagex** on Codeberg:
+Contributing to **Stageˣ** on Codeberg:
 - Core: **https://codeberg.org/stagex/stagex/stagex**
 - Website: **https://codeberg.org/stagex/stagex/website**
 
