@@ -60,7 +60,7 @@ Contributing to **stagex** on Codeberg:
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jprkindrid&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jprkindrid&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jprkindrid&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jprkindrid&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
