@@ -59,7 +59,8 @@ Contributing to **stagex** on Codeberg:
 ---
 
 ## GitHub Stats
-<!-- Powered by https://github.com/anuraghazra/github-readme-stats -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jprkindrid&show_icons=true&hide_title=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jprkindrid&layout=compact&theme=transparent)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jprkindrid&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jprkindrid&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+</p>
